@@ -1,0 +1,11 @@
+C:\Users\slyus\Projects\ZenstAcademy\bin\Debug\netcoreapp2.0\ZenstAcademy.deps.json
+C:\Users\slyus\Projects\ZenstAcademy\bin\Debug\netcoreapp2.0\ZenstAcademy.runtimeconfig.json
+C:\Users\slyus\Projects\ZenstAcademy\bin\Debug\netcoreapp2.0\ZenstAcademy.runtimeconfig.dev.json
+C:\Users\slyus\Projects\ZenstAcademy\bin\Debug\netcoreapp2.0\ZenstAcademy.dll
+C:\Users\slyus\Projects\ZenstAcademy\bin\Debug\netcoreapp2.0\ZenstAcademy.pdb
+C:\Users\slyus\Projects\ZenstAcademy\obj\Debug\netcoreapp2.0\ZenstAcademy.csproj.CoreCompileInputs.cache
+C:\Users\slyus\Projects\ZenstAcademy\obj\Debug\netcoreapp2.0\ZenstAcademy.AssemblyInfoInputs.cache
+C:\Users\slyus\Projects\ZenstAcademy\obj\Debug\netcoreapp2.0\ZenstAcademy.AssemblyInfo.cs
+C:\Users\slyus\Projects\ZenstAcademy\obj\Debug\netcoreapp2.0\ZenstAcademy.dll
+C:\Users\slyus\Projects\ZenstAcademy\obj\Debug\netcoreapp2.0\ZenstAcademy.pdb
+C:\Users\slyus\Projects\ZenstAcademy\obj\Debug\netcoreapp2.0\ZenstAcademy.csprojResolveAssemblyReference.cache
